@@ -1,0 +1,22 @@
+# Histórico e arquivos de ambiente do R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.Rprofile
+
+# Arquivos do gerenciador de pacotes renv
+renv/library/
+renv/local/
+renv/staging/
+renv/python/
+
+# Dados processados (não versionar)
+data/processed/
+*.csv_temp
+
+# Sistema e IDE
+.DS_Store
+.vscode/
