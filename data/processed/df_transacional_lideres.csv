@@ -1,0 +1,482 @@
+Fluxo;Ano;mes_numero;mes_nome;Município;País;Código SH4;Valor US$ FOB;Quilograma Líquido;Descrição SH4
+Exportação;2020;12;Dezembro;Santos - SP;China;1201;105907;301880;Soja, mesmo triturada
+Exportação;2020;11;Novembro;Guarujá - SP;China;1201;1988918;5637367;Soja, mesmo triturada
+Exportação;2020;11;Novembro;Santos - SP;China;1201;55667;116902;Soja, mesmo triturada
+Exportação;2020;10;Outubro;Santos - SP;China;1201;752638;2144148;Soja, mesmo triturada
+Exportação;2020;9;Setembro;Santos - SP;China;1201;6354186;17364591;Soja, mesmo triturada
+Exportação;2020;8;Agosto;Guarujá - SP;China;1201;15941546;45423568;Soja, mesmo triturada
+Exportação;2020;8;Agosto;Santos - SP;China;1201;27602936;78825224;Soja, mesmo triturada
+Exportação;2020;7;Julho;Cubatão - SP;China;1201;550519;1554545;Soja, mesmo triturada
+Exportação;2020;7;Julho;Guarujá - SP;China;1201;44211909;126819228;Soja, mesmo triturada
+Exportação;2020;7;Julho;Santos - SP;China;1201;68222887;194513217;Soja, mesmo triturada
+Exportação;2020;6;Junho;Cubatão - SP;China;1201;2579646;7812123;Soja, mesmo triturada
+Exportação;2020;6;Junho;Guarujá - SP;China;1201;53082260;159044317;Soja, mesmo triturada
+Exportação;2020;6;Junho;Santos - SP;China;1201;100747393;297195530;Soja, mesmo triturada
+Exportação;2020;5;Maio;Cubatão - SP;China;1201;21544203;66697044;Soja, mesmo triturada
+Exportação;2020;5;Maio;Guarujá - SP;China;1201;88943076;269558752;Soja, mesmo triturada
+Exportação;2020;5;Maio;Santos - SP;China;1201;142400270;415708352;Soja, mesmo triturada
+Exportação;2020;4;Abril;Cubatão - SP;China;1201;15176180;45152342;Soja, mesmo triturada
+Exportação;2020;4;Abril;Guarujá - SP;China;1201;83309610;238628115;Soja, mesmo triturada
+Exportação;2020;4;Abril;Santos - SP;China;1201;257614483;756741873;Soja, mesmo triturada
+Exportação;2020;3;Março;Cubatão - SP;China;1201;26699116;80233605;Soja, mesmo triturada
+Exportação;2020;3;Março;Guarujá - SP;China;1201;111357310;323497006;Soja, mesmo triturada
+Exportação;2020;3;Março;Santos - SP;China;1201;148990828;424906095;Soja, mesmo triturada
+Exportação;2020;2;Fevereiro;Cubatão - SP;China;1201;11356350;33777558;Soja, mesmo triturada
+Exportação;2020;2;Fevereiro;Guarujá - SP;China;1201;21054388;59698786;Soja, mesmo triturada
+Exportação;2020;2;Fevereiro;Santos - SP;China;1201;24318891;68682683;Soja, mesmo triturada
+Exportação;2020;1;Janeiro;Cubatão - SP;China;1201;1123387;3185570;Soja, mesmo triturada
+Exportação;2020;1;Janeiro;Guarujá - SP;China;1201;1761797;4999999;Soja, mesmo triturada
+Exportação;2020;1;Janeiro;Santos - SP;China;1201;1326672;3647611;Soja, mesmo triturada
+Importação;2020;12;Dezembro;Guarujá - SP;Estados Unidos;2815;6854889;50982438;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;12;Dezembro;Santos - SP;Argentina;1001;9005486;37897450;Trigo e mistura de trigo com centeio
+Importação;2020;11;Novembro;Cubatão - SP;Chile;2501;1045212;48788636;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2020;11;Novembro;Guarujá - SP;Estados Unidos;2815;3365427;31120189;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;10;Outubro;Cubatão - SP;Chile;2501;1095792;50927422;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2020;10;Outubro;Guarujá - SP;Estados Unidos;2815;3259936;36312347;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;10;Outubro;Santos - SP;Argentina;1001;17162609;71500000;Trigo e mistura de trigo com centeio
+Importação;2020;9;Setembro;Guarujá - SP;Estados Unidos;2815;450433;5905861;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;8;Agosto;Cubatão - SP;Chile;2501;1087504;50614298;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2020;8;Agosto;Guarujá - SP;Estados Unidos;2815;3575028;37841863;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;8;Agosto;Santos - SP;Argentina;1001;14779762;63660000;Trigo e mistura de trigo com centeio
+Importação;2020;7;Julho;Cubatão - SP;Chile;2501;1015105;47725160;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2020;7;Julho;Guarujá - SP;Estados Unidos;2815;3231089;32075031;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;7;Julho;Santos - SP;Argentina;1001;11732093;50171800;Trigo e mistura de trigo com centeio
+Importação;2020;6;Junho;Cubatão - SP;Chile;2501;910379;42856126;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2020;6;Junho;Guarujá - SP;Estados Unidos;2815;2723973;28099771;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;6;Junho;Santos - SP;Argentina;1001;11818362;51370000;Trigo e mistura de trigo com centeio
+Importação;2020;5;Maio;Cubatão - SP;Chile;2501;1051662;49406244;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2020;5;Maio;Guarujá - SP;Estados Unidos;2815;2658632;32894624;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;5;Maio;Santos - SP;Argentina;1001;10431464;46480390;Trigo e mistura de trigo com centeio
+Importação;2020;4;Abril;Cubatão - SP;Chile;2501;1852371;86980563;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2020;4;Abril;Guarujá - SP;Estados Unidos;2815;2477315;24784695;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;4;Abril;Santos - SP;Argentina;1001;5594776;25500000;Trigo e mistura de trigo com centeio
+Importação;2020;3;Março;Guarujá - SP;Estados Unidos;2815;4126542;35974458;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;3;Março;Santos - SP;Argentina;1001;15562959;70560490;Trigo e mistura de trigo com centeio
+Importação;2020;2;Fevereiro;Cubatão - SP;Chile;2501;1441488;74026280;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2020;2;Fevereiro;Guarujá - SP;Estados Unidos;2815;2917035;23934230;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;2;Fevereiro;Santos - SP;Argentina;1001;10700126;53550195;Trigo e mistura de trigo com centeio
+Importação;2020;1;Janeiro;Cubatão - SP;Chile;2501;832676;47884708;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2020;1;Janeiro;Guarujá - SP;Estados Unidos;2815;5051255;36287912;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2020;1;Janeiro;Santos - SP;Argentina;1001;14002359;74719000;Trigo e mistura de trigo com centeio
+Exportação;2019;12;Dezembro;Guarujá - SP;China;1201;2261679;6257216;Soja, mesmo triturada
+Exportação;2019;12;Dezembro;Santos - SP;China;1201;7972287;22026074;Soja, mesmo triturada
+Exportação;2019;11;Novembro;Guarujá - SP;China;1201;39390250;108473871;Soja, mesmo triturada
+Exportação;2019;11;Novembro;Santos - SP;China;1201;5032805;14077433;Soja, mesmo triturada
+Exportação;2019;10;Outubro;Guarujá - SP;China;1201;23950249;62750752;Soja, mesmo triturada
+Exportação;2019;10;Outubro;Santos - SP;China;1201;4216924;12000370;Soja, mesmo triturada
+Exportação;2019;9;Setembro;Guarujá - SP;China;1201;10797386;29378466;Soja, mesmo triturada
+Exportação;2019;9;Setembro;Santos - SP;China;1201;31597324;88315208;Soja, mesmo triturada
+Exportação;2019;8;Agosto;Cubatão - SP;China;1201;461398;1300001;Soja, mesmo triturada
+Exportação;2019;8;Agosto;Guarujá - SP;China;1201;7628533;20685364;Soja, mesmo triturada
+Exportação;2019;8;Agosto;Santos - SP;China;1201;48984901;136295201;Soja, mesmo triturada
+Exportação;2019;7;Julho;Cubatão - SP;China;1201;713141;2000002;Soja, mesmo triturada
+Exportação;2019;7;Julho;Guarujá - SP;China;1201;39191158;111331215;Soja, mesmo triturada
+Exportação;2019;7;Julho;Santos - SP;China;1201;81965256;235208126;Soja, mesmo triturada
+Exportação;2019;6;Junho;Cubatão - SP;China;1201;9297122;28076852;Soja, mesmo triturada
+Exportação;2019;6;Junho;Guarujá - SP;China;1201;51078857;152280805;Soja, mesmo triturada
+Exportação;2019;6;Junho;Santos - SP;China;1201;85219844;253314980;Soja, mesmo triturada
+Exportação;2019;5;Maio;Cubatão - SP;China;1201;4650770;14783746;Soja, mesmo triturada
+Exportação;2019;5;Maio;Guarujá - SP;China;1201;54301777;160463817;Soja, mesmo triturada
+Exportação;2019;5;Maio;Santos - SP;China;1201;106601797;307415464;Soja, mesmo triturada
+Exportação;2019;4;Abril;Cubatão - SP;China;1201;11708692;35114226;Soja, mesmo triturada
+Exportação;2019;4;Abril;Guarujá - SP;China;1201;107936322;307716055;Soja, mesmo triturada
+Exportação;2019;4;Abril;Santos - SP;China;1201;64895319;184071235;Soja, mesmo triturada
+Exportação;2019;3;Março;Cubatão - SP;China;1201;9842111;28981732;Soja, mesmo triturada
+Exportação;2019;3;Março;Guarujá - SP;China;1201;109840105;308816236;Soja, mesmo triturada
+Exportação;2019;3;Março;Santos - SP;China;1201;101548700;270496300;Soja, mesmo triturada
+Exportação;2019;2;Fevereiro;Cubatão - SP;China;1201;6501908;19146162;Soja, mesmo triturada
+Exportação;2019;2;Fevereiro;Guarujá - SP;China;1201;62585178;171510873;Soja, mesmo triturada
+Exportação;2019;2;Fevereiro;Santos - SP;China;1201;69345466;183580258;Soja, mesmo triturada
+Exportação;2019;1;Janeiro;Guarujá - SP;China;1201;17242019;46795759;Soja, mesmo triturada
+Importação;2019;12;Dezembro;Guarujá - SP;Estados Unidos;2815;3060569;22646815;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;12;Dezembro;Santos - SP;Argentina;1001;7088928;36342470;Trigo e mistura de trigo com centeio
+Importação;2019;11;Novembro;Cubatão - SP;Chile;2501;896559;51674635;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2019;11;Novembro;Guarujá - SP;Estados Unidos;2815;2801463;19073288;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;11;Novembro;Santos - SP;Argentina;1001;6449745;30220000;Trigo e mistura de trigo com centeio
+Importação;2019;10;Outubro;Guarujá - SP;Estados Unidos;2815;8723078;51789440;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;10;Outubro;Santos - SP;Argentina;1001;14182220;59838905;Trigo e mistura de trigo com centeio
+Importação;2019;9;Setembro;Cubatão - SP;Chile;2501;972521;55926321;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2019;9;Setembro;Guarujá - SP;Estados Unidos;2815;10976888;64788692;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;9;Setembro;Santos - SP;Argentina;1001;6369857;26840000;Trigo e mistura de trigo com centeio
+Importação;2019;8;Agosto;Cubatão - SP;Chile;2501;891518;51255233;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2019;8;Agosto;Guarujá - SP;Estados Unidos;2815;2268605;14663660;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;8;Agosto;Santos - SP;Argentina;1001;11245641;48143000;Trigo e mistura de trigo com centeio
+Importação;2019;7;Julho;Cubatão - SP;Chile;2501;928175;53200000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2019;7;Julho;Guarujá - SP;Estados Unidos;2815;6836645;42452981;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;7;Julho;Santos - SP;Argentina;1001;18298740;75880000;Trigo e mistura de trigo com centeio
+Importação;2019;6;Junho;Guarujá - SP;Estados Unidos;2815;4739717;28647177;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;6;Junho;Santos - SP;Argentina;1001;6495395;27520000;Trigo e mistura de trigo com centeio
+Importação;2019;5;Maio;Cubatão - SP;Chile;2501;882569;50650000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2019;5;Maio;Guarujá - SP;Estados Unidos;2815;6272260;38169108;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;5;Maio;Santos - SP;Argentina;1001;4445887;17500000;Trigo e mistura de trigo com centeio
+Importação;2019;4;Abril;Cubatão - SP;Chile;2501;933308;53315000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2019;4;Abril;Guarujá - SP;Estados Unidos;2815;4718388;25533344;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;4;Abril;Santos - SP;Argentina;1001;10020282;40650000;Trigo e mistura de trigo com centeio
+Importação;2019;3;Março;Guarujá - SP;Estados Unidos;2815;4426886;21622997;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;3;Março;Santos - SP;Argentina;1001;11598192;47500000;Trigo e mistura de trigo com centeio
+Importação;2019;2;Fevereiro;Cubatão - SP;Chile;2501;1758046;101075000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2019;2;Fevereiro;Guarujá - SP;Estados Unidos;2815;2423079;11870604;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;2;Fevereiro;Santos - SP;Argentina;1001;14387537;59500000;Trigo e mistura de trigo com centeio
+Importação;2019;1;Janeiro;Cubatão - SP;Chile;2501;901420;51850000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2019;1;Janeiro;Guarujá - SP;Estados Unidos;2815;8136211;33986993;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2019;1;Janeiro;Santos - SP;Argentina;1001;10614880;44997425;Trigo e mistura de trigo com centeio
+Exportação;2022;12;Dezembro;Cubatão - SP;China;1201;6805221;10704739;Soja, mesmo triturada
+Exportação;2022;12;Dezembro;Santos - SP;China;1201;58630502;98246138;Soja, mesmo triturada
+Exportação;2022;11;Novembro;Cubatão - SP;China;1201;4628700;6370982;Soja, mesmo triturada
+Exportação;2022;11;Novembro;Santos - SP;China;1201;82066317;135966837;Soja, mesmo triturada
+Exportação;2022;10;Outubro;Cubatão - SP;China;1201;24915999;39350844;Soja, mesmo triturada
+Exportação;2022;10;Outubro;Santos - SP;China;1201;82580222;131653320;Soja, mesmo triturada
+Exportação;2022;9;Setembro;Cubatão - SP;China;1201;6755005;11072797;Soja, mesmo triturada
+Exportação;2022;9;Setembro;Santos - SP;China;1201;32382046;51559982;Soja, mesmo triturada
+Exportação;2022;8;Agosto;Cubatão - SP;China;1201;15803647;26628506;Soja, mesmo triturada
+Exportação;2022;8;Agosto;Guarujá - SP;China;1201;30596539;47013398;Soja, mesmo triturada
+Exportação;2022;8;Agosto;Santos - SP;China;1201;28092014;44292203;Soja, mesmo triturada
+Exportação;2022;7;Julho;Cubatão - SP;China;1201;30610226;50772518;Soja, mesmo triturada
+Exportação;2022;7;Julho;Guarujá - SP;China;1201;127417247;191715550;Soja, mesmo triturada
+Exportação;2022;7;Julho;Santos - SP;China;1201;67852427;112646932;Soja, mesmo triturada
+Exportação;2022;6;Junho;Cubatão - SP;China;1201;43845693;70981820;Soja, mesmo triturada
+Exportação;2022;6;Junho;Guarujá - SP;China;1201;78221831;114562901;Soja, mesmo triturada
+Exportação;2022;6;Junho;Santos - SP;China;1201;207514707;335667862;Soja, mesmo triturada
+Exportação;2022;5;Maio;Cubatão - SP;China;1201;63363717;104257166;Soja, mesmo triturada
+Exportação;2022;5;Maio;Guarujá - SP;China;1201;121221835;179284968;Soja, mesmo triturada
+Exportação;2022;5;Maio;Santos - SP;China;1201;282156326;447994405;Soja, mesmo triturada
+Exportação;2022;4;Abril;Cubatão - SP;China;1201;64183647;100878722;Soja, mesmo triturada
+Exportação;2022;4;Abril;Guarujá - SP;China;1201;143677818;235384999;Soja, mesmo triturada
+Exportação;2022;4;Abril;Santos - SP;China;1201;259765964;444517530;Soja, mesmo triturada
+Exportação;2022;3;Março;Cubatão - SP;China;1201;58741538;97969463;Soja, mesmo triturada
+Exportação;2022;3;Março;Guarujá - SP;China;1201;138251337;243095051;Soja, mesmo triturada
+Exportação;2022;3;Março;Santos - SP;China;1201;242046342;464142722;Soja, mesmo triturada
+Exportação;2022;2;Fevereiro;Cubatão - SP;China;1201;23168083;43848629;Soja, mesmo triturada
+Exportação;2022;2;Fevereiro;Guarujá - SP;China;1201;30315167;59273685;Soja, mesmo triturada
+Exportação;2022;2;Fevereiro;Santos - SP;China;1201;51426985;101468701;Soja, mesmo triturada
+Exportação;2022;1;Janeiro;Cubatão - SP;China;1201;9991171;18685322;Soja, mesmo triturada
+Exportação;2022;1;Janeiro;Guarujá - SP;China;1201;17613027;34226287;Soja, mesmo triturada
+Exportação;2022;1;Janeiro;Santos - SP;China;1201;23692692;46121598;Soja, mesmo triturada
+Importação;2022;12;Dezembro;Cubatão - SP;Chile;2501;1127292;48071297;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2022;12;Dezembro;Guarujá - SP;Estados Unidos;2815;3210470;8532524;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;12;Dezembro;Santos - SP;Argentina;1001;6773118;19800000;Trigo e mistura de trigo com centeio
+Importação;2022;11;Novembro;Cubatão - SP;Chile;2501;1137325;48500000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2022;11;Novembro;Guarujá - SP;Estados Unidos;2815;1964755;5221957;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;11;Novembro;Santos - SP;Argentina;1001;5899875;12500000;Trigo e mistura de trigo com centeio
+Importação;2022;10;Outubro;Cubatão - SP;Chile;2501;1134667;48369178;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2022;10;Outubro;Guarujá - SP;Estados Unidos;2815;747471;1990949;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;10;Outubro;Santos - SP;Argentina;1001;18327900;38350000;Trigo e mistura de trigo com centeio
+Importação;2022;9;Setembro;Cubatão - SP;Chile;2501;1139395;48369082;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2022;9;Setembro;Guarujá - SP;Estados Unidos;2815;3990860;9991027;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;9;Setembro;Santos - SP;Argentina;1001;22916079;48128200;Trigo e mistura de trigo com centeio
+Importação;2022;8;Agosto;Cubatão - SP;Chile;2501;1139633;48594707;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2022;8;Agosto;Guarujá - SP;Estados Unidos;2815;481403;1204322;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;8;Agosto;Santos - SP;Argentina;1001;30466313;66433214;Trigo e mistura de trigo com centeio
+Importação;2022;7;Julho;Cubatão - SP;Chile;2501;1128018;51322398;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2022;7;Julho;Santos - SP;Argentina;1001;27262870;60798170;Trigo e mistura de trigo com centeio
+Importação;2022;6;Junho;Guarujá - SP;Estados Unidos;2815;287593;811317;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;6;Junho;Santos - SP;Argentina;1001;32725394;80922220;Trigo e mistura de trigo com centeio
+Importação;2022;5;Maio;Cubatão - SP;Chile;2501;3298882;147822341;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2022;5;Maio;Santos - SP;Argentina;1001;16176583;44790000;Trigo e mistura de trigo com centeio
+Importação;2022;4;Abril;Guarujá - SP;Estados Unidos;2815;285979;970683;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;4;Abril;Santos - SP;Argentina;1001;17871967;56669690;Trigo e mistura de trigo com centeio
+Importação;2022;3;Março;Guarujá - SP;Estados Unidos;2815;381333;1300506;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;3;Março;Santos - SP;Argentina;1001;24625003;79687000;Trigo e mistura de trigo com centeio
+Importação;2022;2;Fevereiro;Cubatão - SP;Chile;2501;1139281;51161590;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2022;2;Fevereiro;Guarujá - SP;Estados Unidos;2815;4531423;17115777;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;2;Fevereiro;Santos - SP;Argentina;1001;8235518;29331440;Trigo e mistura de trigo com centeio
+Importação;2022;1;Janeiro;Guarujá - SP;Estados Unidos;2815;6937165;29020743;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2022;1;Janeiro;Santos - SP;Argentina;1001;16488531;60014415;Trigo e mistura de trigo com centeio
+Exportação;2021;12;Dezembro;Cubatão - SP;China;1201;3517490;6714050;Soja, mesmo triturada
+Exportação;2021;12;Dezembro;Guarujá - SP;China;1201;27716431;55009908;Soja, mesmo triturada
+Exportação;2021;12;Dezembro;Santos - SP;China;1201;23906387;46579637;Soja, mesmo triturada
+Exportação;2021;11;Novembro;Cubatão - SP;China;1201;9478207;18874523;Soja, mesmo triturada
+Exportação;2021;11;Novembro;Guarujá - SP;China;1201;20761012;46848918;Soja, mesmo triturada
+Exportação;2021;11;Novembro;Santos - SP;China;1201;40990647;78982590;Soja, mesmo triturada
+Exportação;2021;10;Outubro;Cubatão - SP;China;1201;21824403;41045891;Soja, mesmo triturada
+Exportação;2021;10;Outubro;Guarujá - SP;China;1201;14962658;30197076;Soja, mesmo triturada
+Exportação;2021;10;Outubro;Santos - SP;China;1201;303941;562611;Soja, mesmo triturada
+Exportação;2021;9;Setembro;Cubatão - SP;China;1201;2732141;5111398;Soja, mesmo triturada
+Exportação;2021;9;Setembro;Guarujá - SP;China;1201;58171662;101803874;Soja, mesmo triturada
+Exportação;2021;9;Setembro;Santos - SP;China;1201;24482555;46768026;Soja, mesmo triturada
+Exportação;2021;8;Agosto;Cubatão - SP;China;1201;2327686;6484243;Soja, mesmo triturada
+Exportação;2021;8;Agosto;Guarujá - SP;China;1201;22263183;42927998;Soja, mesmo triturada
+Exportação;2021;8;Agosto;Santos - SP;China;1201;18603632;34015730;Soja, mesmo triturada
+Exportação;2021;7;Julho;Cubatão - SP;China;1201;7207239;19770336;Soja, mesmo triturada
+Exportação;2021;7;Julho;Guarujá - SP;China;1201;18302303;44839027;Soja, mesmo triturada
+Exportação;2021;7;Julho;Santos - SP;China;1201;73389088;193551819;Soja, mesmo triturada
+Exportação;2021;6;Junho;Cubatão - SP;China;1201;23901665;60658265;Soja, mesmo triturada
+Exportação;2021;6;Junho;Guarujá - SP;China;1201;54332640;97458121;Soja, mesmo triturada
+Exportação;2021;6;Junho;Santos - SP;China;1201;111459998;257711576;Soja, mesmo triturada
+Exportação;2021;5;Maio;Cubatão - SP;China;1201;32929330;70382074;Soja, mesmo triturada
+Exportação;2021;5;Maio;Guarujá - SP;China;1201;127767858;231560782;Soja, mesmo triturada
+Exportação;2021;5;Maio;Santos - SP;China;1201;191150105;464510068;Soja, mesmo triturada
+Exportação;2021;4;Abril;Cubatão - SP;China;1201;35803172;101062761;Soja, mesmo triturada
+Exportação;2021;4;Abril;Guarujá - SP;China;1201;161595554;338857367;Soja, mesmo triturada
+Exportação;2021;4;Abril;Santos - SP;China;1201;182267230;517757489;Soja, mesmo triturada
+Exportação;2021;3;Março;Cubatão - SP;China;1201;25419294;69219757;Soja, mesmo triturada
+Exportação;2021;3;Março;Guarujá - SP;China;1201;127996433;313083343;Soja, mesmo triturada
+Exportação;2021;3;Março;Santos - SP;China;1201;174944002;478249726;Soja, mesmo triturada
+Exportação;2021;2;Fevereiro;Cubatão - SP;China;1201;8018099;24078241;Soja, mesmo triturada
+Exportação;2021;2;Fevereiro;Guarujá - SP;China;1201;37854061;75045391;Soja, mesmo triturada
+Exportação;2021;2;Fevereiro;Santos - SP;China;1201;21419132;54341208;Soja, mesmo triturada
+Importação;2021;12;Dezembro;Cubatão - SP;Chile;2501;2179421;100317412;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;12;Dezembro;Guarujá - SP;Estados Unidos;2815;3402754;12996938;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;12;Dezembro;Santos - SP;Argentina;1001;19025063;66200000;Trigo e mistura de trigo com centeio
+Importação;2021;11;Novembro;Cubatão - SP;Chile;2501;1066539;49047422;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;11;Novembro;Guarujá - SP;Estados Unidos;2815;309342;1553962;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;11;Novembro;Santos - SP;Argentina;1001;19323138;64701000;Trigo e mistura de trigo com centeio
+Importação;2021;10;Outubro;Cubatão - SP;Chile;2501;2020488;92967218;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;10;Outubro;Guarujá - SP;Estados Unidos;2815;5895210;30354506;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;10;Outubro;Santos - SP;Argentina;1001;19224660;67208480;Trigo e mistura de trigo com centeio
+Importação;2021;9;Setembro;Cubatão - SP;Chile;2501;1098731;50554360;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;9;Setembro;Guarujá - SP;Estados Unidos;2815;4249926;26190588;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;9;Setembro;Santos - SP;Argentina;1001;16376450;59139000;Trigo e mistura de trigo com centeio
+Importação;2021;8;Agosto;Guarujá - SP;Estados Unidos;2815;2795679;17045532;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;8;Agosto;Santos - SP;Argentina;1001;24041209;83434620;Trigo e mistura de trigo com centeio
+Importação;2021;7;Julho;Cubatão - SP;Chile;2501;1100647;51341322;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;7;Julho;Guarujá - SP;Estados Unidos;2815;177879;1098332;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;7;Julho;Santos - SP;Argentina;1001;10301845;37443500;Trigo e mistura de trigo com centeio
+Importação;2021;6;Junho;Cubatão - SP;Chile;2501;1099417;51535311;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;6;Junho;Guarujá - SP;Estados Unidos;2815;3855498;20042152;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;6;Junho;Santos - SP;Argentina;1001;17592242;64626340;Trigo e mistura de trigo com centeio
+Importação;2021;5;Maio;Cubatão - SP;Chile;2501;1027165;48225629;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;5;Maio;Guarujá - SP;Estados Unidos;2815;384042;2020099;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;5;Maio;Santos - SP;Argentina;1001;14678572;54671340;Trigo e mistura de trigo com centeio
+Importação;2021;4;Abril;Cubatão - SP;Chile;2501;1091814;51218338;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;4;Abril;Guarujá - SP;Estados Unidos;2815;2420380;14621569;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;4;Abril;Santos - SP;Argentina;1001;5410397;20271870;Trigo e mistura de trigo com centeio
+Importação;2021;3;Março;Cubatão - SP;Chile;2501;1090407;51180024;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;3;Março;Guarujá - SP;Estados Unidos;2815;5121901;32577362;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;3;Março;Santos - SP;Argentina;1001;23111323;87850000;Trigo e mistura de trigo com centeio
+Importação;2021;2;Fevereiro;Cubatão - SP;Chile;2501;1047695;48709703;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;2;Fevereiro;Guarujá - SP;Estados Unidos;2815;4643118;30230426;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;2;Fevereiro;Santos - SP;Argentina;1001;10098349;38876000;Trigo e mistura de trigo com centeio
+Importação;2021;1;Janeiro;Cubatão - SP;Chile;2501;1116722;52030951;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2021;1;Janeiro;Guarujá - SP;Estados Unidos;2815;4443858;29073987;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2021;1;Janeiro;Santos - SP;Argentina;1001;13899427;54010000;Trigo e mistura de trigo com centeio
+Exportação;2024;11;Novembro;Cubatão - SP;China;1201;133588;295961;Soja, mesmo triturada
+Exportação;2024;11;Novembro;Guarujá - SP;China;1201;85672;200000;Soja, mesmo triturada
+Exportação;2024;10;Outubro;Cubatão - SP;China;1201;3456650;7747897;Soja, mesmo triturada
+Exportação;2024;10;Outubro;Santos - SP;China;1201;14784789;35016285;Soja, mesmo triturada
+Exportação;2024;9;Setembro;Cubatão - SP;China;1201;1403663;3306747;Soja, mesmo triturada
+Exportação;2024;9;Setembro;Guarujá - SP;China;1201;19241958;45059969;Soja, mesmo triturada
+Exportação;2024;9;Setembro;Santos - SP;China;1201;17507754;42000449;Soja, mesmo triturada
+Exportação;2024;8;Agosto;Cubatão - SP;China;1201;26676478;64400590;Soja, mesmo triturada
+Exportação;2024;8;Agosto;Guarujá - SP;China;1201;63147685;145674729;Soja, mesmo triturada
+Exportação;2024;8;Agosto;Santos - SP;China;1201;54009927;124324158;Soja, mesmo triturada
+Exportação;2024;7;Julho;Cubatão - SP;China;1201;26674647;61763964;Soja, mesmo triturada
+Exportação;2024;7;Julho;Guarujá - SP;China;1201;62929423;143430443;Soja, mesmo triturada
+Exportação;2024;7;Julho;Santos - SP;China;1201;94683192;213029232;Soja, mesmo triturada
+Exportação;2024;6;Junho;Cubatão - SP;China;1201;22129996;49168444;Soja, mesmo triturada
+Exportação;2024;6;Junho;Guarujá - SP;China;1201;68200422;159284824;Soja, mesmo triturada
+Exportação;2024;6;Junho;Santos - SP;China;1201;127228769;288480772;Soja, mesmo triturada
+Exportação;2024;5;Maio;Cubatão - SP;China;1201;30378916;69576164;Soja, mesmo triturada
+Exportação;2024;5;Maio;Guarujá - SP;China;1201;75080161;177283016;Soja, mesmo triturada
+Exportação;2024;5;Maio;Santos - SP;China;1201;177210531;415406709;Soja, mesmo triturada
+Exportação;2024;4;Abril;Cubatão - SP;China;1201;26479328;63094666;Soja, mesmo triturada
+Exportação;2024;4;Abril;Guarujá - SP;China;1201;85160546;205046510;Soja, mesmo triturada
+Exportação;2024;4;Abril;Santos - SP;China;1201;173341991;401054419;Soja, mesmo triturada
+Exportação;2024;3;Março;Cubatão - SP;China;1201;55078073;137343051;Soja, mesmo triturada
+Exportação;2024;3;Março;Guarujá - SP;China;1201;107893624;269317878;Soja, mesmo triturada
+Exportação;2024;3;Março;Santos - SP;China;1201;225803364;524903040;Soja, mesmo triturada
+Exportação;2024;2;Fevereiro;Cubatão - SP;China;1201;26413861;63102806;Soja, mesmo triturada
+Exportação;2024;2;Fevereiro;Guarujá - SP;China;1201;86051590;203096336;Soja, mesmo triturada
+Exportação;2024;2;Fevereiro;Santos - SP;China;1201;58057429;123996429;Soja, mesmo triturada
+Exportação;2024;1;Janeiro;Cubatão - SP;China;1201;9093171;16215217;Soja, mesmo triturada
+Exportação;2024;1;Janeiro;Santos - SP;China;1201;6042648;11442537;Soja, mesmo triturada
+Importação;2024;12;Dezembro;Cubatão - SP;Chile;2501;1221061;46916851;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;12;Dezembro;Guarujá - SP;Estados Unidos;2815;5723622;36586532;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;12;Dezembro;Santos - SP;Argentina;1001;8882766;39736165;Trigo e mistura de trigo com centeio
+Importação;2024;11;Novembro;Guarujá - SP;Estados Unidos;2815;985894;8185980;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;11;Novembro;Santos - SP;Argentina;1001;13478383;56300363;Trigo e mistura de trigo com centeio
+Importação;2024;10;Outubro;Cubatão - SP;Chile;2501;1213735;46635000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;10;Outubro;Guarujá - SP;Estados Unidos;2815;4202549;34922368;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;10;Outubro;Santos - SP;Argentina;1001;6435506;24200000;Trigo e mistura de trigo com centeio
+Importação;2024;9;Setembro;Cubatão - SP;Chile;2501;1354880;52062406;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;9;Setembro;Guarujá - SP;Estados Unidos;2815;2409874;20029416;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;9;Setembro;Santos - SP;Argentina;1001;13036199;47400726;Trigo e mistura de trigo com centeio
+Importação;2024;8;Agosto;Cubatão - SP;Chile;2501;1336902;51327642;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;8;Agosto;Guarujá - SP;Estados Unidos;2815;1946588;15915829;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;8;Agosto;Santos - SP;Argentina;1001;13281735;48850293;Trigo e mistura de trigo com centeio
+Importação;2024;7;Julho;Cubatão - SP;Chile;2501;1342787;52305705;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;7;Julho;Guarujá - SP;Estados Unidos;2815;2931472;23999389;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;7;Julho;Santos - SP;Argentina;1001;15960088;58973427;Trigo e mistura de trigo com centeio
+Importação;2024;6;Junho;Guarujá - SP;Estados Unidos;2815;2406484;19736050;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;6;Junho;Santos - SP;Argentina;1001;22586623;81207725;Trigo e mistura de trigo com centeio
+Importação;2024;5;Maio;Cubatão - SP;Chile;2501;1305731;50859539;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;5;Maio;Santos - SP;Argentina;1001;21076829;79623270;Trigo e mistura de trigo com centeio
+Importação;2024;4;Abril;Cubatão - SP;Chile;2501;1314121;51095029;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;4;Abril;Guarujá - SP;Estados Unidos;2815;4063374;32771373;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;4;Abril;Santos - SP;Argentina;1001;7957960;29000000;Trigo e mistura de trigo com centeio
+Importação;2024;3;Março;Cubatão - SP;Chile;2501;1230919;47950983;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;3;Março;Guarujá - SP;Estados Unidos;2815;2976578;23990942;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;3;Março;Santos - SP;Argentina;1001;21276928;80308000;Trigo e mistura de trigo com centeio
+Importação;2024;2;Fevereiro;Cubatão - SP;Chile;2501;1255625;48912445;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;2;Fevereiro;Guarujá - SP;Estados Unidos;2815;1913634;15554849;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;1;Janeiro;Cubatão - SP;Chile;2501;1281009;50633446;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2024;1;Janeiro;Guarujá - SP;Estados Unidos;2815;4666284;36136264;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2024;1;Janeiro;Santos - SP;Argentina;1001;21082852;76517243;Trigo e mistura de trigo com centeio
+Exportação;2023;12;Dezembro;Cubatão - SP;China;1201;1070955;1786474;Soja, mesmo triturada
+Exportação;2023;12;Dezembro;Guarujá - SP;China;1201;62840811;121684637;Soja, mesmo triturada
+Exportação;2023;12;Dezembro;Santos - SP;China;1201;47515065;90343948;Soja, mesmo triturada
+Exportação;2023;11;Novembro;Cubatão - SP;China;1201;11544100;22111369;Soja, mesmo triturada
+Exportação;2023;11;Novembro;Guarujá - SP;China;1201;22817247;41843475;Soja, mesmo triturada
+Exportação;2023;11;Novembro;Santos - SP;China;1201;52160002;95150484;Soja, mesmo triturada
+Exportação;2023;10;Outubro;Cubatão - SP;China;1201;22690432;43536837;Soja, mesmo triturada
+Exportação;2023;10;Outubro;Santos - SP;China;1201;70264789;130748000;Soja, mesmo triturada
+Exportação;2023;9;Setembro;Cubatão - SP;China;1201;29684527;53272211;Soja, mesmo triturada
+Exportação;2023;9;Setembro;Santos - SP;China;1201;53857088;104772163;Soja, mesmo triturada
+Exportação;2023;8;Agosto;Cubatão - SP;China;1201;21923242;43148987;Soja, mesmo triturada
+Exportação;2023;8;Agosto;Guarujá - SP;China;1201;42470965;81952053;Soja, mesmo triturada
+Exportação;2023;8;Agosto;Santos - SP;China;1201;65497735;129419437;Soja, mesmo triturada
+Exportação;2023;7;Julho;Cubatão - SP;China;1201;15852367;33236804;Soja, mesmo triturada
+Exportação;2023;7;Julho;Guarujá - SP;China;1201;38292866;76664118;Soja, mesmo triturada
+Exportação;2023;7;Julho;Santos - SP;China;1201;174635022;354987688;Soja, mesmo triturada
+Exportação;2023;6;Junho;Cubatão - SP;China;1201;30812171;65974964;Soja, mesmo triturada
+Exportação;2023;6;Junho;Guarujá - SP;China;1201;54013245;111161973;Soja, mesmo triturada
+Exportação;2023;6;Junho;Santos - SP;China;1201;215690277;450452822;Soja, mesmo triturada
+Exportação;2023;5;Maio;Cubatão - SP;China;1201;81193439;166995108;Soja, mesmo triturada
+Exportação;2023;5;Maio;Guarujá - SP;China;1201;41531661;78575394;Soja, mesmo triturada
+Exportação;2023;5;Maio;Santos - SP;China;1201;259640961;521802268;Soja, mesmo triturada
+Exportação;2023;4;Abril;Cubatão - SP;China;1201;87921288;168767197;Soja, mesmo triturada
+Exportação;2023;4;Abril;Guarujá - SP;China;1201;152609029;282773197;Soja, mesmo triturada
+Exportação;2023;4;Abril;Santos - SP;China;1201;276415569;505819685;Soja, mesmo triturada
+Exportação;2023;3;Março;Cubatão - SP;China;1201;60521600;113955268;Soja, mesmo triturada
+Exportação;2023;3;Março;Guarujá - SP;China;1201;256976352;456359317;Soja, mesmo triturada
+Exportação;2023;3;Março;Santos - SP;China;1201;340885956;602579913;Soja, mesmo triturada
+Exportação;2023;2;Fevereiro;Cubatão - SP;China;1201;44320763;80794834;Soja, mesmo triturada
+Exportação;2023;2;Fevereiro;Guarujá - SP;China;1201;64994917;110288505;Soja, mesmo triturada
+Exportação;2023;2;Fevereiro;Santos - SP;China;1201;61780358;110852242;Soja, mesmo triturada
+Exportação;2023;1;Janeiro;Cubatão - SP;China;1201;10042141;17603976;Soja, mesmo triturada
+Importação;2023;12;Dezembro;Cubatão - SP;Chile;2501;1300476;51558926;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2023;12;Dezembro;Guarujá - SP;Estados Unidos;2815;627864;5046866;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2023;12;Dezembro;Santos - SP;Argentina;1001;11187939;38507564;Trigo e mistura de trigo com centeio
+Importação;2023;11;Novembro;Santos - SP;Argentina;1001;943500;2850000;Trigo e mistura de trigo com centeio
+Importação;2023;10;Outubro;Cubatão - SP;Chile;2501;1311094;51865984;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2023;10;Outubro;Guarujá - SP;Estados Unidos;2815;5099154;24026981;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2023;10;Outubro;Santos - SP;Argentina;1001;11123988;33807306;Trigo e mistura de trigo com centeio
+Importação;2023;9;Setembro;Cubatão - SP;Chile;2501;1302281;51563962;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2023;9;Setembro;Guarujá - SP;Estados Unidos;2815;2103733;10480997;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2023;9;Setembro;Santos - SP;Argentina;1001;5610000;17000000;Trigo e mistura de trigo com centeio
+Importação;2023;8;Agosto;Cubatão - SP;Chile;2501;1311366;51833917;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2023;8;Agosto;Santos - SP;Argentina;1001;4884000;14800000;Trigo e mistura de trigo com centeio
+Importação;2023;7;Julho;Cubatão - SP;Chile;2501;1229280;48741364;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2023;7;Julho;Guarujá - SP;Estados Unidos;2815;8507019;34169705;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2023;7;Julho;Santos - SP;Argentina;1001;6420942;19800000;Trigo e mistura de trigo com centeio
+Importação;2023;6;Junho;Cubatão - SP;Chile;2501;1267320;51284539;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2023;6;Junho;Guarujá - SP;Estados Unidos;2815;1585105;6375840;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2023;6;Junho;Santos - SP;Argentina;1001;16660962;50304310;Trigo e mistura de trigo com centeio
+Importação;2023;5;Maio;Cubatão - SP;Chile;2501;1193144;48303208;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2023;5;Maio;Santos - SP;Argentina;1001;9022376;26450000;Trigo e mistura de trigo com centeio
+Importação;2023;4;Abril;Santos - SP;Argentina;1001;2187376;6350000;Trigo e mistura de trigo com centeio
+Importação;2023;3;Março;Cubatão - SP;Chile;2501;2494501;100974731;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2023;3;Março;Guarujá - SP;Estados Unidos;2815;14908228;44814989;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2023;3;Março;Santos - SP;Argentina;1001;21032647;58791570;Trigo e mistura de trigo com centeio
+Importação;2023;2;Fevereiro;Cubatão - SP;Chile;2501;1193010;48300000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2023;2;Fevereiro;Santos - SP;Argentina;1001;5163754;14500340;Trigo e mistura de trigo com centeio
+Importação;2023;1;Janeiro;Santos - SP;Argentina;1001;19243535;54142237;Trigo e mistura de trigo com centeio
+Exportação;2026;7;Julho;Cubatão - SP;China;1201;22411585;52950779;Soja, mesmo triturada
+Exportação;2026;7;Julho;Guarujá - SP;China;1201;53908409;122442293;Soja, mesmo triturada
+Exportação;2026;7;Julho;Santos - SP;China;1201;57490351;128713938;Soja, mesmo triturada
+Exportação;2026;6;Junho;Cubatão - SP;China;1201;14773491;35306295;Soja, mesmo triturada
+Exportação;2026;6;Junho;Guarujá - SP;China;1201;85856047;201260225;Soja, mesmo triturada
+Exportação;2026;6;Junho;Santos - SP;China;1201;57678309;130716467;Soja, mesmo triturada
+Exportação;2026;5;Maio;Cubatão - SP;China;1201;26328728;61577161;Soja, mesmo triturada
+Exportação;2026;5;Maio;Guarujá - SP;China;1201;87949578;207441026;Soja, mesmo triturada
+Exportação;2026;5;Maio;Santos - SP;China;1201;111264975;256018815;Soja, mesmo triturada
+Exportação;2026;4;Abril;Cubatão - SP;China;1201;43670415;107307370;Soja, mesmo triturada
+Exportação;2026;4;Abril;Guarujá - SP;China;1201;134641292;327748737;Soja, mesmo triturada
+Exportação;2026;4;Abril;Santos - SP;China;1201;124828822;298434387;Soja, mesmo triturada
+Exportação;2026;3;Março;Cubatão - SP;China;1201;40894805;101956838;Soja, mesmo triturada
+Exportação;2026;3;Março;Guarujá - SP;China;1201;60663771;153138435;Soja, mesmo triturada
+Exportação;2026;3;Março;Santos - SP;China;1201;61209344;150050920;Soja, mesmo triturada
+Exportação;2026;2;Fevereiro;Cubatão - SP;China;1201;7033556;17001352;Soja, mesmo triturada
+Exportação;2026;2;Fevereiro;Guarujá - SP;China;1201;16167792;39895076;Soja, mesmo triturada
+Exportação;2026;2;Fevereiro;Santos - SP;China;1201;24617762;60366785;Soja, mesmo triturada
+Exportação;2026;1;Janeiro;Cubatão - SP;China;1201;336304;786824;Soja, mesmo triturada
+Exportação;2026;1;Janeiro;Guarujá - SP;China;1201;7750412;18027906;Soja, mesmo triturada
+Exportação;2026;1;Janeiro;Santos - SP;China;1201;3050;7210;Soja, mesmo triturada
+Importação;2026;7;Julho;Cubatão - SP;Chile;2501;1276168;51659840;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2026;7;Julho;Guarujá - SP;Estados Unidos;2815;9080187;51878947;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2026;7;Julho;Santos - SP;Argentina;1001;13870309;56256466;Trigo e mistura de trigo com centeio
+Importação;2026;6;Junho;Cubatão - SP;Chile;2501;1215361;49204898;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2026;6;Junho;Guarujá - SP;Estados Unidos;2815;9973150;58796848;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2026;6;Junho;Santos - SP;Argentina;1001;15803634;65238996;Trigo e mistura de trigo com centeio
+Importação;2026;5;Maio;Cubatão - SP;Chile;2501;1240721;50231625;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2026;5;Maio;Guarujá - SP;Estados Unidos;2815;7319888;37028664;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2026;5;Maio;Santos - SP;Argentina;1001;11043305;44230557;Trigo e mistura de trigo com centeio
+Importação;2026;4;Abril;Guarujá - SP;Estados Unidos;2815;9740329;53438918;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2026;4;Abril;Santos - SP;Argentina;1001;13954873;60234679;Trigo e mistura de trigo com centeio
+Importação;2026;3;Março;Cubatão - SP;Chile;2501;1274970;51618233;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2026;3;Março;Guarujá - SP;Estados Unidos;2815;5744095;31018713;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2026;3;Março;Santos - SP;Argentina;1001;10340288;48100000;Trigo e mistura de trigo com centeio
+Importação;2026;2;Fevereiro;Guarujá - SP;Estados Unidos;2815;11064980;56891364;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2026;2;Fevereiro;Santos - SP;Argentina;1001;10260343;46849840;Trigo e mistura de trigo com centeio
+Importação;2026;1;Janeiro;Cubatão - SP;Chile;2501;1227058;45734568;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2026;1;Janeiro;Guarujá - SP;Estados Unidos;2815;7932071;39066172;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2026;1;Janeiro;Santos - SP;Argentina;1001;10047683;46526905;Trigo e mistura de trigo com centeio
+Exportação;2025;12;Dezembro;Cubatão - SP;China;1201;1155112;2689473;Soja, mesmo triturada
+Exportação;2025;12;Dezembro;Guarujá - SP;China;1201;10831724;25087918;Soja, mesmo triturada
+Exportação;2025;12;Dezembro;Santos - SP;China;1201;34960;79774;Soja, mesmo triturada
+Exportação;2025;11;Novembro;Cubatão - SP;China;1201;880193;1995811;Soja, mesmo triturada
+Exportação;2025;11;Novembro;Guarujá - SP;China;1201;4417836;10733185;Soja, mesmo triturada
+Exportação;2025;11;Novembro;Santos - SP;China;1201;2077512;4694406;Soja, mesmo triturada
+Exportação;2025;10;Outubro;Cubatão - SP;China;1201;12382852;28865657;Soja, mesmo triturada
+Exportação;2025;10;Outubro;Guarujá - SP;China;1201;12559328;29763708;Soja, mesmo triturada
+Exportação;2025;10;Outubro;Santos - SP;China;1201;799857;1859499;Soja, mesmo triturada
+Exportação;2025;9;Setembro;Cubatão - SP;China;1201;6346949;14698190;Soja, mesmo triturada
+Exportação;2025;9;Setembro;Guarujá - SP;China;1201;42755642;103861400;Soja, mesmo triturada
+Exportação;2025;9;Setembro;Santos - SP;China;1201;14865936;34808840;Soja, mesmo triturada
+Exportação;2025;8;Agosto;Cubatão - SP;China;1201;4600749;11022683;Soja, mesmo triturada
+Exportação;2025;8;Agosto;Guarujá - SP;China;1201;20259885;50925982;Soja, mesmo triturada
+Exportação;2025;8;Agosto;Santos - SP;China;1201;58578840;137650587;Soja, mesmo triturada
+Exportação;2025;7;Julho;Cubatão - SP;China;1201;26867688;64187399;Soja, mesmo triturada
+Exportação;2025;7;Julho;Guarujá - SP;China;1201;31473423;78253494;Soja, mesmo triturada
+Exportação;2025;7;Julho;Santos - SP;China;1201;76392764;181748654;Soja, mesmo triturada
+Exportação;2025;6;Junho;Cubatão - SP;China;1201;17952482;45393118;Soja, mesmo triturada
+Exportação;2025;6;Junho;Guarujá - SP;China;1201;43366609;109506663;Soja, mesmo triturada
+Exportação;2025;6;Junho;Santos - SP;China;1201;119321129;294594270;Soja, mesmo triturada
+Exportação;2025;5;Maio;Cubatão - SP;China;1201;26965420;69146691;Soja, mesmo triturada
+Exportação;2025;5;Maio;Guarujá - SP;China;1201;89134692;229647407;Soja, mesmo triturada
+Exportação;2025;5;Maio;Santos - SP;China;1201;162001111;406178519;Soja, mesmo triturada
+Exportação;2025;4;Abril;Cubatão - SP;China;1201;30807889;80332915;Soja, mesmo triturada
+Exportação;2025;4;Abril;Guarujá - SP;China;1201;88978241;231581665;Soja, mesmo triturada
+Exportação;2025;4;Abril;Santos - SP;China;1201;163561623;411637051;Soja, mesmo triturada
+Exportação;2025;3;Março;Cubatão - SP;China;1201;34530994;90626269;Soja, mesmo triturada
+Exportação;2025;3;Março;Guarujá - SP;China;1201;86503431;215380118;Soja, mesmo triturada
+Exportação;2025;3;Março;Santos - SP;China;1201;138294475;350246981;Soja, mesmo triturada
+Exportação;2025;2;Fevereiro;Cubatão - SP;China;1201;34990854;94531847;Soja, mesmo triturada
+Exportação;2025;2;Fevereiro;Guarujá - SP;China;1201;13711496;34379350;Soja, mesmo triturada
+Exportação;2025;2;Fevereiro;Santos - SP;China;1201;81307711;205037971;Soja, mesmo triturada
+Exportação;2025;1;Janeiro;Santos - SP;China;1201;275342;653722;Soja, mesmo triturada
+Importação;2025;12;Dezembro;Cubatão - SP;Chile;2501;1230156;45850000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;12;Dezembro;Guarujá - SP;Estados Unidos;2815;3113022;14090242;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;12;Dezembro;Santos - SP;Argentina;1001;13127862;59018780;Trigo e mistura de trigo com centeio
+Importação;2025;11;Novembro;Cubatão - SP;Chile;2501;1208644;45041807;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;11;Novembro;Guarujá - SP;Estados Unidos;2815;7616002;40765036;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;11;Novembro;Santos - SP;Argentina;1001;11790500;51500000;Trigo e mistura de trigo com centeio
+Importação;2025;10;Outubro;Cubatão - SP;Chile;2501;1216907;45353869;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;10;Outubro;Guarujá - SP;Estados Unidos;2815;3270426;17949815;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;10;Outubro;Santos - SP;Argentina;1001;21445364;89316160;Trigo e mistura de trigo com centeio
+Importação;2025;9;Setembro;Cubatão - SP;Chile;2501;1176278;43826000;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;9;Setembro;Guarujá - SP;Estados Unidos;2815;8630412;38057060;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;9;Setembro;Santos - SP;Argentina;1001;11746913;49708000;Trigo e mistura de trigo com centeio
+Importação;2025;8;Agosto;Cubatão - SP;Chile;2501;1229610;45810790;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;8;Agosto;Guarujá - SP;Estados Unidos;2815;11009650;50084443;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;8;Agosto;Santos - SP;Argentina;1001;12882350;54200000;Trigo e mistura de trigo com centeio
+Importação;2025;7;Julho;Cubatão - SP;Chile;2501;1199115;44686175;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;7;Julho;Guarujá - SP;Estados Unidos;2815;11104310;50288228;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;7;Julho;Santos - SP;Argentina;1001;20159726;82700983;Trigo e mistura de trigo com centeio
+Importação;2025;6;Junho;Cubatão - SP;Chile;2501;1207130;45819998;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;6;Junho;Guarujá - SP;Estados Unidos;2815;8459775;39628739;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;6;Junho;Santos - SP;Argentina;1001;7977900;31900000;Trigo e mistura de trigo com centeio
+Importação;2025;5;Maio;Cubatão - SP;Chile;2501;1369201;52013178;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;5;Maio;Guarujá - SP;Estados Unidos;2815;12216829;59021645;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;5;Maio;Santos - SP;Argentina;1001;28415699;115789266;Trigo e mistura de trigo com centeio
+Importação;2025;4;Abril;Guarujá - SP;Estados Unidos;2815;5562636;38058193;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;4;Abril;Santos - SP;Argentina;1001;8104410;33518000;Trigo e mistura de trigo com centeio
+Importação;2025;3;Março;Cubatão - SP;Chile;2501;1264211;48019952;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;3;Março;Guarujá - SP;Estados Unidos;2815;6101501;46370092;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;3;Março;Santos - SP;Argentina;1001;13236028;56400000;Trigo e mistura de trigo com centeio
+Importação;2025;2;Fevereiro;Cubatão - SP;Chile;2501;1367827;51942010;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;2;Fevereiro;Guarujá - SP;Estados Unidos;2815;2773701;21053425;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;2;Fevereiro;Santos - SP;Argentina;1001;19494041;83340265;Trigo e mistura de trigo com centeio
+Importação;2025;1;Janeiro;Cubatão - SP;Chile;2501;1183294;45454284;Sal (incluídos o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes
+Importação;2025;1;Janeiro;Guarujá - SP;Estados Unidos;2815;1973156;15019522;"Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio"
+Importação;2025;1;Janeiro;Santos - SP;Argentina;1001;8570843;36739920;Trigo e mistura de trigo com centeio
